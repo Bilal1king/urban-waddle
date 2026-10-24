@@ -1,0 +1,6 @@
+{
+  "name": "Bilal King - BF AI",
+  "description": "Futuristic BF AI personal assistant for mobile with continuous hands-free listening, professional female voice, Roman Urdu / Hinglish script, mobile lock, phone dialer, and call manager.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
